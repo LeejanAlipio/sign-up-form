@@ -1,6 +1,5 @@
 # Sign-Up-Form
-
-First project in IHTMLACSS. Taught me how to create and style a form that validates each inputs. 
+Basic sign up form page with custom error style.
 
 # Preview
 ![Project Image](/images/image.png)
